@@ -49,12 +49,27 @@ body {
 
 .menu ul {
     list-style: none;
+    padding: 2em;
 }
 
 .menu ul li {
     display: inline-block;
     margin-right: 1em;
+    font-size: 130%;
 }
+
+.menu ul li:hover {
+    display: inline-block;
+    margin-right: 1em;
+    cursor: pointer;
+    border-bottom: 2px solid white;
+}
+
+.map p {
+    font-size: 100%;
+    margin-top: 3em;
+}
+
 
 .footer {
     background-color: #24c1f4;

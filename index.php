@@ -8,23 +8,29 @@
         <div id="wrapper">
             <div class="intro">
                 <div class="pure-g">
-                    <div class="pure-u-2-24 spacer">
+                    <div class="pure-u-2-24 pure-u-md-1-24 pure-u-lg-2-24 spacer">
 
                     </div>
-                    <div class="pure-u-9-24 pure-u-sm-5-24 pure-u-lg-3-24 logo">
+                    <div class="pure-u-9-24 pure-u-sm-5-24 pure-u-md-5-24 pure-u-lg-3-24 logo">
                         <img class="pure-img" src="/assets/img/logo/trans.png" />
                     </div>
-                    <div class="pure-u-5-24 spacer">
+                    <div class="pure-u-5-24 pure-u-md-1-24 pure-u-lg-5-24 pure-u-xl-6-24 spacer">
 
                     </div>
-                    <div class="pure-u-12-24 menu">
+                    <div class="pure-u-10-24 pure-u-sm-10-24 pure-u-md-17-24 pure-u-lg-14-24 pure-u-xl-12-24 menu">
                         <div class="l-box">
                             <ul>
                                 <li>
-                                    About LSH
+                                    About Us
                                 </li>
                                 <li>
                                     What We Do
+                                </li>
+                                <li>
+                                    Who We Are
+                                </li>
+                                <li>
+                                    Get In Touch
                                 </li>
                             </ul>
                         </div>
@@ -44,6 +50,14 @@
                                 LSH gets your kids outside and active, doing everything from the basics, to team sports, all while building important team-based skills
                             </p>
                         </div>
+                    </div>
+                    <div class="pure-u-lg-2-24 pure-u-10-24 spacer">
+                    </div>
+                    <div class="pure-u-lg-5-24 pure-u-10-24 map">
+                        <p>
+                            Finding new Little Sporting Heores all over the Melbourne area!
+                        </p>
+                        <img class="pure-img" src="/assets/img/bg/vic.png" />
                     </div>
                 </div>
             </div>
