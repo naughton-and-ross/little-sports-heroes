@@ -17,7 +17,6 @@ Copyright (c) Nicolas Gallagher and Jonathan Neal
  */
 
 html {
-  font-family: sans-serif; /* 1 */
   -ms-text-size-adjust: 100%; /* 2 */
   -webkit-text-size-adjust: 100%; /* 2 */
 }
@@ -489,7 +488,6 @@ th {
 
     * Helvetica, Arial, sans-serif: Common font stack on OS X and Windows.
     */
-    font-family: FreeSans, Arimo, "Droid Sans", Helvetica, Arial, sans-serif;
 
     /*
     Use flexbox when possible to avoid `letter-spacing` side-effects.
@@ -504,7 +502,7 @@ th {
     /* IE10 uses display: flexbox */
     display: -ms-flexbox;
     -ms-flex-flow: row wrap;
-    
+
     /* Prevents distributing space between rows */
     -ms-align-content: flex-start;
 	-webkit-align-content: flex-start;
@@ -534,9 +532,7 @@ th {
 Resets the font family back to the OS/browser's default sans-serif font,
 this the same font stack that Normalize.css sets for the `body`.
 */
-.pure-g [class *= "pure-u"] {
-    font-family: sans-serif;
-}
+
 
 .pure-u-1,
 .pure-u-1-1,

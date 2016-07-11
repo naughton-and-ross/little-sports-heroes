@@ -1,7 +1,7 @@
 <meta charset="utf-8">
 <link rel="stylesheet" href="assets/css/global.css" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="assets/css/pure/pure-min.css">
+<link rel="stylesheet" href="assets/css/pure/pure.css">
 <!--[if lte IE 8]>
     <link rel="stylesheet" href="assets/css/pure/grids-responsive-old-ie-min.css">
 <![endif]-->

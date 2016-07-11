@@ -4,6 +4,7 @@
 
 body {
     background-color: white;
+    font-family: "sofia-pro-soft",sans-serif;
 }
 #wrapper {
     width: 100%;
@@ -14,15 +15,49 @@ body {
 }
 
 .intro {
+    /*
     background-image: url('/assets/img/bg/bg1.jpg');
     background-size: cover;
+    */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#0a3285+0,24c1f4+100 */
+    background: #0a3285; /* Old browsers */
+    background: -moz-linear-gradient(top,  #0a3285 0%, #24c1f4 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #0a3285 0%,#24c1f4 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #0a3285 0%,#24c1f4 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0a3285', endColorstr='#24c1f4',GradientType=0 ); /* IE6-9 */
+
     font-family: "sofia-pro-soft";
     color: white;
 }
 
+.intro h1 {
+    font-weight: 400;
+    font-size: 230%;
+}
+
+.intro h1 span {
+    font-weight: 600;
+}
+
+.intro p {
+    font-weight: 100;
+    font-size: 200%;
+}
+
+.menu {
+}
+
+.menu ul {
+    list-style: none;
+}
+
+.menu ul li {
+    display: inline-block;
+    margin-right: 1em;
+}
+
 .footer {
-    background-color: #2daee2;
+    background-color: #24c1f4;
     /* background-image: url('/assets/img/bg/kids.png'); */
     background-size: contain;;
-    height: 550px;
 }
