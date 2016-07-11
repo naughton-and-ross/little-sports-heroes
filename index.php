@@ -25,11 +25,11 @@
                     <div class="pure-u-2-24 spacer">
 
                     </div>
-                    <div class="pure-u-1-2">
+                    <div class="pure-u-12-24">
                         <div class="l-box">
                             <h1>Your Kids Can Be <span>Little Sports Heroes!</span></h1>
                             <p>
-                                Little Sports Heroes wants to [mission]
+                                Little Sports Heroes wants to help your kids be the best they can be when it comes to sports amd games.
                             </p>
                         </div>
                     </div>
