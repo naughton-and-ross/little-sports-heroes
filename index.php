@@ -14,23 +14,20 @@
                     <div class="pure-u-9-24 pure-u-sm-5-24 pure-u-md-5-24 pure-u-lg-3-24 logo">
                         <img class="pure-img" src="/assets/img/logo/trans.png" />
                     </div>
-                    <div class="pure-u-5-24 pure-u-md-1-24 pure-u-lg-5-24 pure-u-xl-6-24 spacer">
+                    <div class="pure-u-5-24 pure-u-md-1-24 pure-u-lg-5-24 pure-u-xl-8-24 spacer">
 
                     </div>
-                    <div class="pure-u-10-24 pure-u-sm-10-24 pure-u-md-17-24 pure-u-lg-14-24 pure-u-xl-12-24 menu">
+                    <div class="pure-u-10-24 pure-u-sm-10-24 pure-u-md-17-24 pure-u-lg-14-24 pure-u-xl-10-24 menu">
                         <div class="l-box">
                             <ul>
                                 <li>
-                                    About Us
+                                    <a class="services" href="/services">What We Do</a>
                                 </li>
                                 <li>
-                                    What We Do
+                                    <a class="about" href="/about">Who We Are</a>
                                 </li>
                                 <li>
-                                    Who We Are
-                                </li>
-                                <li>
-                                    Get In Touch
+                                    <a class="contact" href="/contact">Get In Touch</a>
                                 </li>
                             </ul>
                         </div>
