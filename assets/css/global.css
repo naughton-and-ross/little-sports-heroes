@@ -1,0 +1,28 @@
+.l-box {
+    padding: 1em;
+}
+
+body {
+    background-color: white;
+}
+#wrapper {
+    width: 100%;
+    max-width: 1400px;
+    height: auto;
+    margin: 0 auto;
+    background: white;
+}
+
+.intro {
+    background-image: url('/assets/img/bg/bg1.jpg');
+    background-size: cover;
+    font-family: "sofia-pro-soft";
+    color: white;
+}
+
+.footer {
+    background-color: #2daee2;
+    /* background-image: url('/assets/img/bg/kids.png'); */
+    background-size: contain;;
+    height: 550px;
+}
