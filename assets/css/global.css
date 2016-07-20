@@ -32,6 +32,32 @@ a.contact:hover {
     border-bottom-color: #2ecc71;
 }
 
+@media (min-width:320px) {
+    .mobile_only {
+        display: inline-block;
+        visibility: visible;
+    }
+
+    .desktop_only {
+        display: none;
+        visibility: hidden;
+    }
+}
+@media (min-width:641px) {
+    .mobile_only {
+        display: none;
+        visibility: hidden;
+    }
+
+    .desktop_only {
+        display: inline-block;
+        visibility: visible;
+    }
+}
+@media (min-width:961px) { /* tablet, landscape iPad, lo-res laptops ands desktops */ }
+@media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */ }
+@media (min-width:1281px) { /* hi-res laptops and desktops */ }
+
 #wrapper {
     width: 100%;
     max-width: 1400px;
@@ -76,6 +102,10 @@ a.contact:hover {
 .menu ul {
     list-style: none;
     padding: 2em;
+}
+
+.menu.mobile_only i {
+    margin-top: 1em;
 }
 
 .menu ul li {
