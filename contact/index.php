@@ -12,6 +12,9 @@
                     <img class="pure-img" src="/assets/img/logo/white.jpg" />
                 </div>
             </div>
+            <div class="pure-u-1 banner">
+                <img class="pure-img" src="http://placehold.it/1500x500">
+            </div>
             <div class="pure-u-1 page_intro" style="background-color: #2ecc71">
                 <div class="l-box">
                     <h1>
@@ -38,6 +41,15 @@
                                 <textarea class="pure-input-1" placeholder="Anything Else?"></textarea>
                             </fieldset>
                         </form>
+                    </div>
+                </div>
+            </div>
+            <div class="pure-g footer">
+                <div class="pure-u-14-24">
+                    <div class="l-box">
+                        <p>
+                            Website by Naughton & Ross
+                        </p>
                     </div>
                 </div>
             </div>

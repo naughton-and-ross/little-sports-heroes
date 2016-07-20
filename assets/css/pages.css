@@ -4,6 +4,10 @@
     margin: 0 auto;
 }
 
+.upper {
+    background-color: white;
+}
+
 .page_intro {
     color: white;
     font-size: 250%;
@@ -23,4 +27,9 @@
 
 form {
     color: black;
+}
+
+.footer {
+    background-color: #dddddd;
+    color: #777777;
 }
