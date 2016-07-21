@@ -1,13 +1,13 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="assets/css/pure/pure.css">
+<link rel="stylesheet" href="/assets/css/pure/pure.css">
 <!--[if lte IE 8]>
     <link rel="stylesheet" href="assets/css/pure/grids-responsive-old-ie-min.css">
 <![endif]-->
 <!--[if gt IE 8]><!-->
-    <link rel="stylesheet" href="assets/css/pure/grids-responsive-min.css">
+    <link rel="stylesheet" href="/assets/css/pure/grids-responsive-min.css">
 <!--<![endif]-->
-<link rel="stylesheet" href="assets/css/global.css" />
+<link rel="stylesheet" href="/assets/css/global.css" />
 <script src="https://use.fontawesome.com/e81840525b.js"></script>
 <script>
   (function(d) {
