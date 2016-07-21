@@ -8,7 +8,7 @@
         <div id="outer">
         <div id="wrapper">
             <div class="intro">
-                <div class="pure-g">
+                <div class="pure-g menu_wrap">
                     <div class="pure-u-2-24 pure-u-md-1-24 pure-u-lg-2-24 spacer">
 
                     </div>
@@ -37,6 +37,9 @@
                             <i class="fa fa-bars fa-3x" aria-hidden="true"></i>
                     </div>
                 </div>
+                <div class="kids">
+                    <img class="pure-img" src="/assets/img/bg/kids.png" />
+                </div>
                 <div class="pure-g">
                     <div class="pure-u-2-24 spacer">
 
@@ -52,7 +55,7 @@
                             </p>
                         </div>
                         <div class="pure-g">
-                            
+
                             <div class="pure-u-1">
                                 <div class="l-box">
                                     <h1><a href="/services" class="services">Find out about all of our programs here!</a></h1>
@@ -86,11 +89,15 @@
                     </div>
                 </div>
             </div>
+            <div class="pure-u-1 footer">
+                <div class="l-box">
+                    <p>
+                        test
+                    </p>
+                </div>
+            </div>
+        </div>
+        </div>
 
-        </div>
-        </div>
-        <div class="footer">
-            <img class="pure-img" src="/assets/img/bg/kids.png" />
-        </div>
     </body>
 </html>
