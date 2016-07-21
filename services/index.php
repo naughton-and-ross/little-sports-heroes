@@ -11,14 +11,14 @@
             <div class="pure-u-1 banner">
                 <img class="pure-img" src="http://placehold.it/1500x500">
             </div>
-            <div class="pure-u-1 page_intro" style="background-color: #2ecc71">
+            <div class="pure-u-1 page_intro" style="background-color: #e74c3c">
                 <div class="l-box">
                     <h1>
-                        Get in Touch
+                        What We Do
                     </h1>
                 </div>
             </div>
-            <div class="pure-g body" style="background-color: #27ae60">
+            <div class="pure-g body" style="background-color: #c0392b">
                 <div class="pure-u-1 pure-u-md-14-24">
                     <div class="l-box">
                         <h2>Want <strong>Little Sports Heroes</strong> in your school or centre? It couldn't be easier to grt started with us.</h2>

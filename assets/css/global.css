@@ -34,31 +34,6 @@ a.contact:hover {
     border-bottom-color: #2ecc71;
 }
 
-@media (min-width:320px) {
-    .mobile_only {
-        display: inline-block;
-        visibility: visible;
-    }
-
-    .desktop_only {
-        display: none;
-        visibility: hidden;
-    }
-}
-@media (min-width:641px) {
-    .mobile_only {
-        display: none;
-        visibility: hidden;
-    }
-
-    .desktop_only {
-        display: inline-block;
-        visibility: visible;
-    }
-}
-@media (min-width:961px) { /* tablet, landscape iPad, lo-res laptops ands desktops */ }
-@media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */ }
-@media (min-width:1281px) { /* hi-res laptops and desktops */ }
 
 #outer {
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#0a3285+0,24c1f4+100 */
@@ -78,10 +53,13 @@ a.contact:hover {
 
 .intro {
     /*
-    background-image: url('/assets/img/bg/bg1.jpg');
-    background-size: cover;
-    */
 
+    background-size: cover;
+    background-image: url('/assets/img/bg/kids.png');
+    background-position: bottom;
+    background-size: contain;
+    background-repeat: no-repeat;
+    */
 
     font-family: "sofia-pro-soft";
     color: white;
@@ -110,7 +88,7 @@ a.contact:hover {
 }
 
 .menu.mobile_only i {
-    margin-top: 0.8em;
+    margin-top: 0.5em;
 }
 
 .menu ul li {
@@ -131,6 +109,12 @@ a.contact:hover {
     margin-top: 3em;
 }
 
+.map ul {
+    padding: 0;
+    list-style: star;
+    font-size: 130%;
+}
+
 
 .footer {
     background-color: #24c1f4;
@@ -139,3 +123,33 @@ a.contact:hover {
     margin: 0 auto;
     max-width: 1400px;
 }
+
+@media (min-width:320px) {
+    .mobile_only {
+        display: inline-block;
+        visibility: visible;
+    }
+
+    .desktop_only {
+        display: none;
+        visibility: hidden;
+    }
+
+    .menu.mobile_only i {
+    }
+
+}
+@media (min-width:774px) {
+    .mobile_only {
+        display: none;
+        visibility: hidden;
+    }
+
+    .desktop_only {
+        display: inline-block;
+        visibility: visible;
+    }
+}
+@media (min-width:961px) { /* tablet, landscape iPad, lo-res laptops ands desktops */ }
+@media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */ }
+@media (min-width:1281px) { /* hi-res laptops and desktops */ }
