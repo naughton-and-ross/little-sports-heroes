@@ -35,10 +35,7 @@
                     </div>
                 </div>
                 <div class="pure-u-1 pure-u-md-10-24 circle-imge">
-                    <div class="circle">
-                        <img src="http://placehold.it/350x150">
-
-                    </div>
+                    <img class="pure-img" src="http://placehold.it/400x300">
                 </div>
             </div>
             <?php include('../assets/php/pages_footer.php'); ?>

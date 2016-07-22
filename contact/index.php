@@ -36,6 +36,7 @@
                             <fieldset class="pure-group">
                                 <textarea class="pure-input-1" placeholder="Anything Else?"></textarea>
                             </fieldset>
+                            <button type="submit" class="pure-button pure-input-1 pure-button-secondary">Send!</button>
                         </form>
                     </div>
                 </div>
