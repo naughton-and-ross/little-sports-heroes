@@ -2,14 +2,11 @@
 
 $(document).ready(function(){
 
+$("#mobile_menu").hide();
+
 $("#mobile_menu_button").click(function() {
     //need the following to toggle
     $("#mobile_menu").slideToggle();
-});
-
-$("#nav-close").click(function() {
-    //need the following to toggle
-    $("#mobile_menu").css("visibility", "hidden");
 });
 
 });

@@ -5,6 +5,38 @@
         <title>Little Sports Heroes</title>
     </head>
     <body>
+        <script>
+
+        $(document).ready(function(){
+
+        $("#mobile_menu").hide();
+
+        $("#mobile_menu_button").click(function() {
+            //need the following to toggle
+            $("#mobile_menu").slideToggle();
+        });
+
+        });
+
+        </script>
+        <div id="mobile_menu" class="pure-u-1 mobile_menu menu">
+            <div class="pure-u-18-24 pure-u-sm-1">
+                <div class="l-box">
+                    <ul>
+                        <li>
+                            <a class="services" href="/services">What We Do</a>
+                        </li>
+                        <li>
+                            <a class="about" href="/about">Who We Are</a>
+                        </li>
+                        <li>
+                            <a class="contact" href="/contact">Get In Touch</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
         <div id="outer">
         <div id="wrapper">
             <div class="intro">
@@ -33,7 +65,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="mobile_only pure-u-4-24 pure-u-sm-5-24 pure-u-md-17-24 pure-u-lg-14-24 pure-u-xl-10-24 menu">
+                    <div id="mobile_menu_button" class="mobile_only pure-u-4-24 pure-u-sm-5-24 pure-u-md-17-24 pure-u-lg-14-24 pure-u-xl-10-24 menu">
                             <i class="fa fa-bars fa-3x" aria-hidden="true"></i>
                     </div>
                 </div>

@@ -112,6 +112,14 @@ a.contact:hover {
     cursor: pointer;
 }
 
+.mobile_menu.menu {
+    color: white;
+}
+
+.mobile_menu.menu ul li {
+    margin-bottom: 1em;
+    text-align: center;
+}
 
 .map p {
     font-size: 100%;
