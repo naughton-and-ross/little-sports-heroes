@@ -1,4 +1,39 @@
+<script>
+
+$(document).ready(function(){
+
+$("#mobile_menu_button").click(function() {
+    //need the following to toggle
+    $("#mobile_menu").slideToggle();
+});
+
+$("#nav-close").click(function() {
+    //need the following to toggle
+    $("#mobile_menu").css("visibility", "hidden");
+});
+
+});
+
+</script>
 <div class="pure-g upper">
+    <div id="mobile_menu" class="pure-u-1 mobile_menu menu">
+        <div class="pure-u-18-24 pure-u-sm-1">
+            <div class="l-box">
+                <ul>
+                    <li>
+                        <a class="services" href="/services">What We Do</a>
+                    </li>
+                    <li>
+                        <a class="about" href="/about">Who We Are</a>
+                    </li>
+                    <li>
+                        <a class="contact" href="/contact">Get In Touch</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
     <div class="pure-u-8-24 pure-u-xs-8-24 pure-u-sm-5-24 pure-u-md-5-24 pure-u-lg-5-24 pure-u-xl-5-24 page_logo">
         <a href="/">
             <img class="pure-img" src="/assets/img/logo/white.jpg" />
@@ -23,7 +58,7 @@
         </div>
     </div>
     <div class="mobile_only pure-u-3-24 pure-u-sm-5-24 pure-u-md-17-24 pure-u-lg-14-24 pure-u-xl-10-24 menu">
-        <div class="l-box">
+        <div id="mobile_menu_button" class="l-box">
             <span><i class="fa fa-bars fa-2x" aria-hidden="true"></i></span>
 
         </div>

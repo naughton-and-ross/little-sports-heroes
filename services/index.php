@@ -21,22 +21,23 @@
             <div class="pure-g body" style="background-color: #c0392b">
                 <div class="pure-u-1 pure-u-md-14-24">
                     <div class="l-box">
-                        <h2>Want <strong>Little Sports Heroes</strong> in your school or centre? It couldn't be easier to grt started with us.</h2>
-                        <h2>Fill is the form and we'll get back to you as soon as possible!</h2>
+                        <h2>A few words about what <strong>Little Sports Heroes</strong> can offer anybody looking to sign up for the service or look to have their child signed up into and existing program.</h2>
                     </div>
                 </div>
-                <div class="pure-u-1 pure-u-md-10-24">
+            </div>
+            <div class="pure-g">
+                <div class="pure-u-1 pure-u-md-14-24">
                     <div class="l-box">
-                        <form class="pure-form">
-                            <fieldset class="pure-group">
-                                <input class="pure-input-1" type="text" name="name" placeholder="Your name" />
-                                <input class="pure-input-1" type="text" name="contact" placeholder="Phone number or email" />
-                                <input class="pure-input-1" type="text" name="type" placeholder="Type of centre (eg. primary school)" />
-                            </fieldset>
-                            <fieldset class="pure-group">
-                                <textarea class="pure-input-1" placeholder="Anything Else?"></textarea>
-                            </fieldset>
-                        </form>
+                        <h2>Something we do</h2>
+                        <p>
+                            A little about this thing we do
+                        </p>
+                    </div>
+                </div>
+                <div class="pure-u-1 pure-u-md-10-24 circle-imge">
+                    <div class="circle">
+                        <img src="http://placehold.it/350x150">
+
                     </div>
                 </div>
             </div>

@@ -9,6 +9,7 @@
 <!--<![endif]-->
 <link rel="stylesheet" href="/assets/css/global.css" />
 <script src="https://use.fontawesome.com/e81840525b.js"></script>
+<script src="/assets/js/jquery-3.1.0.min.js"></script>
 <script>
   (function(d) {
     var config = {

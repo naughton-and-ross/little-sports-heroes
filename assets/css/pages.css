@@ -2,6 +2,11 @@
     width: 100%;
     max-width: 1100px;
     margin: 0 auto;
+    background-color: white;
+}
+
+.mobile_menu {
+    background-color: #e9e9e9;
 }
 
 .upper {
@@ -29,7 +34,15 @@ form {
     color: black;
 }
 
+.circle-image {
+    border-radius: 50%;
+}
+
 .footer {
     background-color: #e9e9e9;
     color: #777777;
+}
+
+.mobile_menu.menu ul li {
+    margin-bottom: 1em;
 }
