@@ -15,11 +15,24 @@
 
 .page_intro {
     color: white;
-    font-size: 250%;
 }
 
-.page_intro h1 {
-    margin: 0;
+.banner h1 {
+    font-size: 300%;
+}
+
+.banner h2 {
+    font-weight: 200;
+}
+
+
+.banner {
+    background-size: cover;
+}
+
+.banner.wwd {
+    background-image: url('/assets/img/equip/what-we-do.jpg');
+    background-position: right;
 }
 
 .body {
@@ -46,4 +59,17 @@ form {
 .mobile_menu.menu ul li {
     margin-bottom: 1em;
     color: black;
+}
+
+.function_item h2 {
+    display: inline;
+    border-bottom: 3px solid;
+}
+
+.function_item.even h2 {
+    border-bottom-color: #3498db;
+}
+
+.function_item.odd h2 {
+    border-bottom-color: #2ecc71;
 }
