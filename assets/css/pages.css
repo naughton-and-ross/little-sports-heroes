@@ -73,3 +73,14 @@ form {
 .function_item.odd h2 {
     border-bottom-color: #2ecc71;
 }
+
+@media (min-width:320px) {
+    .banner h1 {
+        margin: 0;
+    }
+
+    .banner h2 {
+        margin: 0;
+    }
+
+}
