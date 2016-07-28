@@ -8,14 +8,19 @@
     <body>
         <div id="container">
             <?php include('../assets/php/pages_menu.php'); ?>
-            <div class="pure-u-1 banner">
-                <img class="pure-img" src="http://placehold.it/1500x500">
-            </div>
-            <div class="pure-u-1 page_intro" style="background-color: #2ecc71">
-                <div class="l-box">
-                    <h1>
-                        Get in Touch
-                    </h1>
+            <div class="pure-g page_intro banner contact">
+                <div class="pure-u-1">
+                    <div class="l-box">
+                        <h1>
+                            Get in Touch
+                        </h1>
+                    </div>
+                </div>
+                <div class="pure-u-1 pure-u-md-14-24 darken">
+                    <div class="l-box">
+                        <h2>Want <strong>Little Sports Heroes</strong> in your school or centre? It couldn't be easier to grt started with us.</h2>
+                        <h2>Fill is the form and we'll get back to you as soon as possible!</h2>
+                    </div>
                 </div>
             </div>
             <div class="pure-g body" style="background-color: #27ae60">

@@ -31,8 +31,13 @@
 }
 
 .banner.wwd {
-    background-image: url('/assets/img/equip/what-we-do.jpg');
+    background-image: url('/assets/img/bg/services.jpg');
     background-position: right;
+}
+
+.banner.contact {
+    background-image: url('/assets/img/bg/contact.jpg');
+    background-position: bottom right;
 }
 
 .body {
