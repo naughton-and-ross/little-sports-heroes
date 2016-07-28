@@ -88,4 +88,8 @@ form {
         margin: 0;
     }
 
+    .darken {
+        background-color:rgba(0, 0, 0, 0.2);
+    }
+
 }

@@ -9,7 +9,7 @@
         <div id="container">
             <?php include('../assets/php/pages_menu.php'); ?>
             <div class="pure-g page_intro banner contact">
-                <div class="pure-u-1">
+                <div class="pure-u-1 darken">
                     <div class="l-box">
                         <h1>
                             Get in Touch
