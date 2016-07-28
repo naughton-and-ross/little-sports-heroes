@@ -70,7 +70,7 @@
                     </div>
                 </div>
                 <div class="kids">
-                    <img class="pure-img" src="/assets/img/bg/kids.png" />
+                    <img class="pure-img" src="/assets/img/bg/kids-grass.png" />
                 </div>
                 <div class="pure-g">
                     <div class="pure-u-2-24 spacer">
