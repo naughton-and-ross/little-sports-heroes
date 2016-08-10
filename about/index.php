@@ -31,12 +31,12 @@
                 </div>
                 <div class="pure-u-1 pure-u-md-1-2">
                     <div class="l-box">
-                        <img class="pure-img" src="../assets/img/candid/IMG_0002.jpg" />
+                        <img class="pure-img" src="/assets/img/candid/IMG_0002.jpg" />
                     </div>
                 </div>
                 <div class="pure-u-1 pure-u-md-1-2 function_item odd">
                     <div class="l-box">
-                        <img class="pure-img" src="assets/img/candid/IMG_0005.jpg" />
+                        <img class="pure-img" src="/assets/img/candid/IMG_0005.jpg" />
                     </div>
                 </div>
                 <div class="pure-u-1 pure-u-md-1-2 function_item even">
