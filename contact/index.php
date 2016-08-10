@@ -48,5 +48,6 @@
             </div>
             <?php include('../assets/php/pages_footer.php'); ?>
         </div>
+        
     </body>
 </html>

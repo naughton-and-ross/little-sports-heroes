@@ -76,7 +76,7 @@
                     <div class="pure-u-2-24 spacer">
 
                     </div>
-                    <div class="pure-u-lg-12-24 pure-u-18-24">
+                    <div class="pure-u-lg-12-24 pure-u-18-24 text">
                         <div class="l-box">
                             <h1>Your Kids Can Be <span>Little Sports Heroes!</span></h1>
                             <p>
@@ -101,22 +101,7 @@
                     </div>
                     <div class="pure-u-1 pure-u-lg-5-24 pure-u-10-24 map desktop_only">
                         <div class="l-box">
-                            <ul>
-                                <li>
-                                    This will be a list
-                                </li>
-                                <li>
-                                    Of key points
-                                </li>
-                                <li>
-                                    About what LSH does
-                                </li>
-                                <li>
-                                    And why someone should sign up
-                                </li>
-                            </ul>
-
-                            <h2><a href="/contact" class="contact">Get in touch today</a> to register your interest!</h2>
+                            <h1><a href="/contact" class="contact">Get in touch today</a> to register your interest!</h1>
                         </div>
                     </div>
                 </div>
@@ -130,6 +115,26 @@
             </div>
         </div>
         </div>
+        <script>
+        $(document).ready(function() {
+   $(window).scroll(function() {
 
+       var headerH = $('.menu_wrap').outerHeight(true);
+       console.log(headerH);
+//this will calculate header's full height, with borders, margins, paddings
+       var scrollVal = $(this).scrollTop();
+       if (/Mobi/.test(navigator.userAgent)) {
+        if ( scrollVal > headerH ) {
+            $('.kids').css({'position':'fixed','top' :'0px'});
+            $('.text').css({'margin-top': headerH});
+        } else {
+            $('.kids').css({'position':'static','top':'0px'});
+
+            $('.text').css({'margin-top': '0'});
+        }
+    }
+    });
+ });
+        </script>
     </body>
 </html>
