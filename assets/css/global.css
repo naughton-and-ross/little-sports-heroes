@@ -142,6 +142,10 @@ a.contact:hover {
     padding-top: 1em;
 }
 
+.kids-rear {
+    display: none;
+}
+
 .footer {
     background-color: #27ae60;
     color: white;
@@ -161,7 +165,7 @@ a.contact:hover {
     .menu.mobile_only i {
     }
 
-    
+
 
 }
 @media (min-width:774px) {
