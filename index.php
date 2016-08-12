@@ -106,13 +106,6 @@
                     </div>
                 </div>
             </div>
-            <div class="pure-u-1 footer">
-                <div class="l-box">
-                    <p>
-                        test
-                    </p>
-                </div>
-            </div>
         </div>
         </div>
         <script>
