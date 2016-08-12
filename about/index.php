@@ -27,7 +27,6 @@
                     <div class="l-box">
                         <h1>Testimonials</h1>
                     </div>
-
                 </div>
                 <div class="pure-u-1 pure-u-md-1-2 testimonial odd">
                     <div class="l-box">
