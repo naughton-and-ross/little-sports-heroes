@@ -69,6 +69,9 @@
                             <i class="fa fa-bars fa-3x" aria-hidden="true"></i>
                     </div>
                 </div>
+                <div class="kids-rear">
+                    <img class="pure-img" src="/assets/img/bg/kids-on-hill-web.png" />
+                </div>
                 <div class="kids">
                     <img class="pure-img" src="/assets/img/bg/kids-on-hill-web.png" />
                 </div>
@@ -119,10 +122,10 @@
        if (/Mobi/.test(navigator.userAgent)) {
         if ( scrollVal > headerH ) {
             $('.kids').css({'position':'fixed','top' :'-10px'});
-            $('.text').css({'margin-top': headerH * 1.3});
+            $('.kids-rear').css({'display': 'block'});
         } else {
             $('.kids').css({'position':'static','top':'0px'});
-            $('.text').css({'margin-top': '0'});
+            $('.kids-rear').css({'display': 'none'});
         }
     }
     });
