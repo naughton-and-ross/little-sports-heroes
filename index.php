@@ -121,7 +121,7 @@
        var scrollVal = $(this).scrollTop();
        if (/Mobi/.test(navigator.userAgent)) {
         if ( scrollVal > headerH ) {
-            $('.kids').css({'position':'fixed','top' :'-10px'});
+            $('.kids').css({'position':'fixed','top' :'0px'});
             $('.kids-rear').css({'display': 'block'});
         } else {
             $('.kids').css({'position':'static','top':'0px'});
