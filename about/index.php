@@ -23,7 +23,7 @@
                 </div>
             </div>
             <div class="pure-g">
-                <div class="pure-u-1 pure-u-md-1-2 function_item odd">
+                <div class="pure-u-1 pure-u-md-1-2 testimonial odd">
                     <div class="l-box">
                         <h2>“Robbie and George are doing an amazing job with their program. It has been really easy for the children to follow instructions and do the activities.</h2><br /><br />
                         <h2>Feedback from parents has been of a high standard and the children are taking the skills home and practicing so they can be better on the day of Sports so that Robbie and George would be proud of them.”</h2>
@@ -34,32 +34,32 @@
                         <img class="pure-img" src="/assets/img/candid/IMG_0002.jpg" />
                     </div>
                 </div>
-                <div class="pure-u-1 pure-u-md-1-2 function_item odd">
+                <div class="pure-u-1 pure-u-md-1-2 testimonial odd">
                     <div class="l-box">
                         <img class="pure-img" src="/assets/img/candid/IMG_0005.jpg" />
                     </div>
                 </div>
-                <div class="pure-u-1 pure-u-md-1-2 function_item even">
+                <div class="pure-u-1 pure-u-md-1-2 testimonial even">
                     <div class="l-box">
                         <h2>“My child is absolutely loving the sports program. Every day is a day with at least two “how many days until sports day?”</h2>
                     </div>
                 </div>
-                <div class="pure-u-1 pure-u-md-1-2 function_item odd">
+                <div class="pure-u-1 pure-u-md-1-2 testimonial odd">
                     <div class="l-box">
                         <h2>“The guys are great with the children and are very enthusiastic and encouraging. The children set up their equipment on days they don’t have sports and practice the skills they’ve learned.”</h2>
                     </div>
                 </div>
-                <div class="pure-u-1 pure-u-md-1-2 function_item even">
+                <div class="pure-u-1 pure-u-md-1-2 testimonial even">
                     <div class="l-box">
                         <img class="pure-img" src="/assets/img/candid/IMG_0010.jpg" />
                     </div>
                 </div>
-                <div class="pure-u-1 pure-u-md-1-2 function_item odd">
+                <div class="pure-u-1 pure-u-md-1-2 testimonial odd">
                     <div class="l-box">
                     	<img class="pure-img" src="/assets/img/candid/IMG_0017.jpg" />
                     </div>
                 </div>
-                <div class="pure-u-1 pure-u-md-1-2 function_item even">
+                <div class="pure-u-1 pure-u-md-1-2 testimonial even">
                     <div class="l-box">
                         <h2>“My son really enjoys attending the sessions. Each day he tried to practice at home so that he can het better for the nest session with Coach George and Coach Robbie. He has been getting more and more active as each week goes by.”</h2>
                     </div>

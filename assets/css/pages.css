@@ -84,6 +84,20 @@ form {
     border-bottom-color: #2ecc71;
 }
 
+.testimonial h2 {
+    font-weight: 300;
+    display: inline;
+    border-bottom: 3px solid;
+}
+
+.testimonial.even h2 {
+    border-bottom-color: #3498db;
+}
+
+.testimonial.odd h2 {
+    border-bottom-color: #2ecc71;
+}
+
 @media (min-width:320px) and (max-width:774px) {
     .banner h1 {
         margin: 0;
