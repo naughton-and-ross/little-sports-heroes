@@ -70,7 +70,7 @@
                     </div>
                 </div>
                 <div class="kids">
-                    <img class="pure-img" src="/assets/img/bg/kids-grass.png" />
+                    <img class="pure-img" src="/assets/img/bg/kids-on-hill-web.png" />
                 </div>
                 <div class="pure-g">
                     <div class="pure-u-2-24 spacer">
@@ -90,7 +90,7 @@
 
                             <div class="pure-u-1">
                                 <div class="l-box">
-                                    <h1><a href="/services" class="services">Find out about all of our programs here!</a></h1>
+                                    <h1><a href="/services" class="services">Find out about our program here!</a> and take a look at <a href="/about" class="about">what people are saying about us.</a></h1>
                                 </div>
                             </div>
 

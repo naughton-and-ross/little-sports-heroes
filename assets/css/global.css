@@ -161,6 +161,14 @@ a.contact:hover {
     .menu.mobile_only i {
     }
 
+    .intro h1 {
+        font-size: 175%;
+    }
+
+    .intro p {
+        font-size: 130%;
+    }
+
 }
 @media (min-width:774px) {
     .mobile_only {
