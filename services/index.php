@@ -42,6 +42,11 @@
                         <p>Through this they will also develop a strong sense of physical, social and emotional wellbeing. 
                     </div>
                 </div>
+                <div class="pure-u-1">
+                    <div class="l-box">
+                        <h1>Program Cornerstones</h1>
+                    </div>
+                </div>
                 <div class="pure-u-1 pure-u-md-1-2 function_item odd">
                     <div class="l-box">
                         <h2>Development-focused program</h2>
