@@ -23,14 +23,23 @@
                 </div>
             </div>
             <div class="pure-g">
+            	<div class="pure-u-1">
+                    <div class="l-box">
+                        <h1>About our Program</h1>
+                    </div>
+                </div>
             	<div class="pure-u-1 pure-u-md-1-2">
                     <div class="l-box">
-                        <p>Testing one</p>
+                        <p>We believe in quality of service, understanding that every child is unique and will respond in different ways and that enjoyment plays a major role in the absorption of knowledge and skills.</p>
+                        <p>By providing two coaches for each session we are able to cater for you child's needs.</p>
+                        <p>We strive to structure our program to coincide with the Early Learning Years Framework to further aid in a child's development. 
                     </div>
                 </div>
                 <div class="pure-u-1 pure-u-md-1-2">
                     <div class="l-box">
-                        <p>Testing two</p>
+                        <p>Making sure children feel safe, secure and supported in their learning environment enables a child to interact in relation to others with care, empathy and respect.</p>
+                        <p>We aid in developing a strong sense of identity and belonging to a group and they will become well aware of fairness that will not only apply to sport but to everyday life. 
+                        <p>Through this they will also develop a strong sense of physical, social and emotional wellbeing. 
                     </div>
                 </div>
                 <div class="pure-u-1">
