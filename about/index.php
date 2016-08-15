@@ -46,7 +46,7 @@
                 </div>
                 <div class="pure-u-1 pure-u-md-1-2 testimonial even">
                     <div class="l-box">
-                        <h2>“My child is absolutely loving the sports program. Every day is a day with at least two “how many days until sports day?”</h2>
+                        <h2>“Allanah is absolutely loving the sports program. Every day is a day with at least two “how many days until sports day?” I was contemplating shifting her before the year started but decided to see how things went. She settled in with such ease and thats thanks largely to your sports program. </h2>
                     </div>
                 </div>
                 <div class="pure-u-1 pure-u-md-1-2 testimonial odd">
