@@ -92,8 +92,9 @@
                         <h2>Restoring the enjoyment of keeping active</h2>
                     </div>
                 </div>
-                <div class="pure-u-1 pure-u-md-1-2">
-
+                <div class="pure-u-1 pure-u-md-1-2 function_item even">
+					<div class="l-box">
+						<h2>Programs in daycares, kindergartens, schools, sports centres</h2> <span>+</span> <h2>Birthdays, Kinder Graduations, </h2>
                 </div>
             </div>
             <?php include('../assets/php/pages_footer.php'); ?>
