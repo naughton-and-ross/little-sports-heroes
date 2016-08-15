@@ -81,6 +81,19 @@
                         </p>
                     </div>
                 </div>
+                <div class="pure-u-1 pure-u-md-1-2 testimonial odd">
+                    <div class="l-box">
+                        <h2>“Awesome, friendly, passionate, fun. The children at East Ivanhoe ELC love Robbie and George, and love when Wednesdays come around!”</h2>
+                        <p>
+                        	Kasey Lauren, Director, East Ivanhoe Early Learning Centre
+                        </p>
+                    </div>
+                </div>
+                <div class="pure-u-1 pure-u-md-1-2 testimonial even">
+                    <div class="l-box">
+                        <img class="pure-img" src="/assets/img/candid/2.jpg" />
+                    </div>
+                </div>
             </div>
             <?php include('../assets/php/pages_footer.php'); ?>
         </div>
