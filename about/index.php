@@ -18,7 +18,7 @@
                 </div>
                 <div class="pure-u-1 pure-u-md-14-24 darken">
                     <div class="l-box">
-                        <h2>At <strong>Little Sports Heroes</strong>, our vision is to create a community of actively healthy children. As a company, we understand that there are enormous benefits to participating in sport and maintaining an active lifestyle.</h2>
+                        <h2><strong>Little Sports Heroes</strong> is a group of devoted and passionate individuals that are looking to show as many children as possible the enormous benefit of an active lifestyle, by offering sports programs in daycares, kindergartens, schools and sports centres, as well as private functions.</h2>
                     </div>
                 </div>
             </div>
