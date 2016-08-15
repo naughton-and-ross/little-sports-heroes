@@ -1,135 +1,59 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <?php include('assets/php/head.php'); ?>
-        <title>Little Sports Heroes</title>
+        <?php include('../assets/php/head.php'); ?>
+        <link rel="stylesheet" href="/assets/css/pages.css" />
+        <title>Litle Sports Heroes</title>
     </head>
     <body>
-        <script>
-
-        $(document).ready(function(){
-
-        $("#mobile_menu").hide();
-
-        $("#mobile_menu_button").click(function() {
-            //need the following to toggle
-            $("#mobile_menu").slideToggle();
-        });
-
-        });
-
-        </script>
-        <div id="mobile_menu" class="pure-u-1 mobile_menu menu">
-            <div class="pure-u-18-24 pure-u-sm-1">
-                <div class="l-box">
-                    <ul>
-                        <li>
-                            <a class="services" href="/services">What We Do</a>
-                        </li>
-                        <li>
-                            <a class="about" href="/about">Who We Are</a>
-                        </li>
-                        <li>
-                            <a class="contact" href="/contact">Get In Touch</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-        </div>
-        <div id="outer">
-        <div id="wrapper">
-            <div class="intro">
-                <div class="pure-g menu_wrap">
-                    <div class="pure-u-2-24 pure-u-md-1-24 pure-u-lg-2-24 spacer">
-
-                    </div>
-                    <div class="pure-u-9-24 pure-u-sm-6-24 pure-u-md-5-24 pure-u-lg-3-24 logo">
-                        <img class="pure-img" src="/assets/img/logo/trans.png" />
-                    </div>
-                    <div class="pure-u-7-24 pure-u-sm-9-24 pure-u-md-1-24 pure-u-lg-5-24 pure-u-xl-8-24 spacer">
-
-                    </div>
-                    <div class="pure-u-10-24 pure-u-sm-8-24 pure-u-md-17-24 pure-u-lg-14-24 pure-u-xl-10-24 desktop_only menu">
-                        <div class="l-box">
-                            <ul>
-                                <li>
-                                    <a class="services" href="/services">What We Do</a>
-                                </li>
-                                <li>
-                                    <a class="about" href="/about">Who We Are</a>
-                                </li>
-                                <li>
-                                    <a class="contact" href="/contact">Get In Touch</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div id="mobile_menu_button" class="mobile_only pure-u-4-24 pure-u-sm-5-24 pure-u-md-17-24 pure-u-lg-14-24 pure-u-xl-10-24 menu">
-                            <i class="fa fa-bars fa-3x" aria-hidden="true"></i>
+        <div id="container">
+            <?php include('../assets/php/pages_menu.php'); ?>
+            <div class="pure-g page_intro banner contact">
+                <div class="pure-u-1 darken">
+                    <div class="l-box">
+                        <h1>
+                            Get in Touch
+                        </h1>
                     </div>
                 </div>
-                <div class="kids-rear">
-                    <img class="pure-img" src="/assets/img/bg/kids-on-hill-web.png" />
-                </div>
-                <div class="kids">
-                    <img class="pure-img" src="/assets/img/bg/kids-on-hill-web.png" />
-                </div>
-                <div class="pure-g">
-                    <div class="pure-u-2-24 spacer">
-
-                    </div>
-                    <div class="pure-u-lg-12-24 pure-u-18-24 text">
-                        <div class="l-box">
-                            <h1>Your Kids Can Be <span>Little Sports Heroes!</span></h1>
-                            <p>
-                                Little Sports Heroes wants to help your kids be the best they can be when it comes to sports and games.
-                            </p>
-                            <p>
-                                LSH gets your kids active, doing everything from the basics, to team sports, all while building important team-based skills
-                            </p>
-                        </div>
-                        <div class="pure-g">
-
-                            <div class="pure-u-1">
-                                <div class="l-box">
-                                    <h1><a href="/services" class="services">Find out about our program here!</a> and take a look at <a href="/about" class="about">what people are saying about us.</a></h1>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-                    <div class="pure-u-lg-2-24 pure-u-10-24 spacer">
-                    </div>
-                    <div class="pure-u-1 pure-u-lg-5-24 pure-u-10-24 map desktop_only">
-                        <div class="l-box">
-                            <h1><a href="/contact" class="contact">Get in touch today</a> to register your interest!</h1>
-                        </div>
+                <div class="pure-u-1 pure-u-md-14-24 darken">
+                    <div class="l-box">
+                        <h2>Want <strong>Little Sports Heroes</strong> in your school or centre? It couldn't be easier to get started with us. Fill is the form and we'll get back to you as soon as possible!</h2>
                     </div>
                 </div>
             </div>
+            <div class="pure-g body" style="background-color: #27ae60">
+                <div class="pure-u-1 pure-u-md-10-24">
+                    <div class="l-box">
+                        <form class="pure-form">
+                            <fieldset class="pure-group">
+                                <input class="pure-input-1" type="text" name="name" placeholder="Your name" />
+                                <input class="pure-input-1" type="text" name="contact" placeholder="Phone number or email" />
+                                <input class="pure-input-1" type="text" name="type" placeholder="Type of centre (eg. primary school)" />
+                            </fieldset>
+                            <fieldset class="pure-group">
+                                <textarea class="pure-input-1" placeholder="Anything Else?"></textarea>
+                            </fieldset>
+                            <button type="submit" class="pure-button pure-input-1 pure-button-secondary">Send!</button>
+                        </form>
+                    </div>
+                </div>
+                <div class="pure-u-1 pure-u-md-14-24">
+                    <div class="l-box">
+                        <h2><strong>Little Sports Heroes</strong> services the wider Melbourne area and can work in all kinds of centres including daycares, kindergartens, schools and other sports centres.</h2>
+                        <h2>If you're not sure if LSH can come to you, don't hesitate to get in touch to find out.</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="pure-g">
+            	<div class="pure-u-1">
+                    <div class="l-box">
+                        <h1>Little Sports Heroes On Social Media</h1>
+                    </div>
+                </div>
+            </div>
+            <?php include('../assets/php/pages_footer.php'); ?>
         </div>
-        </div>
-        <script>
-        $(document).ready(function() {
-   $(window).scroll(function() {
 
-       var headerH = $('.menu_wrap').outerHeight(true);
-       console.log(headerH);
-//this will calculate header's full height, with borders, margins, paddings
-       var scrollVal = $(this).scrollTop();
-       if (/Mobi/.test(navigator.userAgent)) {
-        if ( scrollVal > headerH ) {
-            $('.kids').css({'position':'fixed','top' :'0px'});
-            $('.kids-rear').css({'display': 'block'});
-        } else {
-            $('.kids').css({'position':'static','top':'0px'});
-            $('.kids-rear').css({'display': 'none'});
-        }
-    }
-    });
- });
-        </script>
     </body>
 </html>
