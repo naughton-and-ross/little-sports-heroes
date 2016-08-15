@@ -44,11 +44,6 @@
                         <h2>If you're not sure if LSH can come to you, don't hesitate to get in touch to find out.</h2>
                     </div>
                 </div>
-                <div class="pure-u-1">
-                    <div class="l-box">
-                        <h1>Little Sports Heroes On Social Media</h1>
-                    </div>
-                </div>
             </div>
             <div class="pure-g">
             	<div class="pure-u-1">
