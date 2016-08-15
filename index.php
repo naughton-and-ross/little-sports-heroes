@@ -1,135 +1,103 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <?php include('assets/php/head.php'); ?>
-        <title>Little Sports Heroes</title>
+        <?php include('../assets/php/head.php'); ?>
+        <link rel="stylesheet" href="/assets/css/pages.css" />
+        <title>Litle Sports Heroes</title>
     </head>
     <body>
-        <script>
-
-        $(document).ready(function(){
-
-        $("#mobile_menu").hide();
-
-        $("#mobile_menu_button").click(function() {
-            //need the following to toggle
-            $("#mobile_menu").slideToggle();
-        });
-
-        });
-
-        </script>
-        <div id="mobile_menu" class="pure-u-1 mobile_menu menu">
-            <div class="pure-u-18-24 pure-u-sm-1">
-                <div class="l-box">
-                    <ul>
-                        <li>
-                            <a class="services" href="/services">What We Do</a>
-                        </li>
-                        <li>
-                            <a class="about" href="/about">Who We Are</a>
-                        </li>
-                        <li>
-                            <a class="contact" href="/contact">Get In Touch</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-        </div>
-        <div id="outer">
-        <div id="wrapper">
-            <div class="intro">
-                <div class="pure-g menu_wrap">
-                    <div class="pure-u-2-24 pure-u-md-1-24 pure-u-lg-2-24 spacer">
-
-                    </div>
-                    <div class="pure-u-9-24 pure-u-sm-6-24 pure-u-md-5-24 pure-u-lg-3-24 logo">
-                        <img class="pure-img" src="/assets/img/logo/trans.png" />
-                    </div>
-                    <div class="pure-u-7-24 pure-u-sm-9-24 pure-u-md-1-24 pure-u-lg-5-24 pure-u-xl-8-24 spacer">
-
-                    </div>
-                    <div class="pure-u-10-24 pure-u-sm-8-24 pure-u-md-17-24 pure-u-lg-14-24 pure-u-xl-10-24 desktop_only menu">
-                        <div class="l-box">
-                            <ul>
-                                <li>
-                                    <a class="services" href="/services">What We Do</a>
-                                </li>
-                                <li>
-                                    <a class="about" href="/about">Who We Are</a>
-                                </li>
-                                <li>
-                                    <a class="contact" href="/contact">Get In Touch</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div id="mobile_menu_button" class="mobile_only pure-u-4-24 pure-u-sm-5-24 pure-u-md-17-24 pure-u-lg-14-24 pure-u-xl-10-24 menu">
-                            <i class="fa fa-bars fa-3x" aria-hidden="true"></i>
+        <div id="container">
+            <?php include('../assets/php/pages_menu.php'); ?>
+            <div class="pure-g page_intro banner wwd">
+                <div class="pure-u-1 darken">
+                    <div class="l-box">
+                        <h1>
+                            What We Do
+                        </h1>
                     </div>
                 </div>
-                <div class="kids-rear">
-                    <img class="pure-img" src="/assets/img/bg/kids-on-hill-web.png" />
-                </div>
-                <div class="kids">
-                    <img class="pure-img" src="/assets/img/bg/kids-on-hill-web.png" />
-                </div>
-                <div class="pure-g">
-                    <div class="pure-u-2-24 spacer">
-
-                    </div>
-                    <div class="pure-u-lg-12-24 pure-u-18-24 text">
-                        <div class="l-box">
-                            <h1>Your Kids Can Be <span>Little Sports Heroes!</span></h1>
-                            <p>
-                                Little Sports Heroes wants to help your kids be the best they can be when it comes to sports and games.
-                            </p>
-                            <p>
-                                LSH gets your kids active, doing everything from the basics, to team sports, all while building important team-based skills
-                            </p>
-                        </div>
-                        <div class="pure-g">
-
-                            <div class="pure-u-1">
-                                <div class="l-box">
-                                    <h1><a href="/services" class="services">Find out about our program here!</a> and take a look at <a href="/about" class="about">what people are saying about us.</a></h1>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-                    <div class="pure-u-lg-2-24 pure-u-10-24 spacer">
-                    </div>
-                    <div class="pure-u-1 pure-u-lg-5-24 pure-u-10-24 map desktop_only">
-                        <div class="l-box">
-                            <h1><a href="/contact" class="contact">Get in touch today</a> to register your interest!</h1>
-                        </div>
+                <div class="pure-u-1 pure-u-md-14-24 darken">
+                    <div class="l-box">
+                        <h2>At <strong>Litle Sports Heroes</strong>, our vision is to create a community of actively healthy children. As a company, we understand that there are enormous benefits to participating in sport and maintaining an active lifestyle.</h2>
                     </div>
                 </div>
             </div>
+            <div class="pure-g">
+            	<div class="pure-u-1">
+                    <div class="l-box">
+                        <h1>About our Program</h1>
+                    </div>
+                </div>
+            	<div class="pure-u-1 pure-u-md-1-2">
+                    <div class="l-box">
+                        <p>We believe in quality of service, understanding that every child is unique and will respond in different ways and that enjoyment plays a major role in the absorption of knowledge and skills.</p>
+                        <p>By providing two coaches for each session we are able to cater for you child's needs.</p>
+                        <p>We strive to structure our program to coincide with the Early Learning Years Framework to further aid in a child's development. 
+                    </div>
+                </div>
+                <div class="pure-u-1 pure-u-md-1-2">
+                    <div class="l-box">
+                        <p>Making sure children feel safe, secure and supported in their learning environment enables a child to interact in relation to others with care, empathy and respect.</p>
+                        <p>We aid in developing a strong sense of identity and belonging to a group and they will become well aware of fairness that will not only apply to sport but to everyday life. 
+                        <p>Through this they will also develop a strong sense of physical, social and emotional wellbeing. 
+                    </div>
+                </div>
+                <div class="pure-u-1">
+                    <div class="l-box">
+                        <h1>Program Cornerstones</h1>
+                    </div>
+                </div>
+                <div class="pure-u-1 pure-u-md-1-2 function_item odd">
+                    <div class="l-box">
+                        <h2>Development-focused program</h2>
+                    </div>
+                </div>
+                <div class="pure-u-1 pure-u-md-1-2 function_item even">
+                    <div class="l-box">
+                        <h2>Structured coaching</h2>
+                    </div>
+                </div>
+                <div class="pure-u-1 pure-u-md-1-2 function_item odd">
+                    <div class="l-box">
+                        <h2>Teaches correct technqiue and terminology</h2>
+                    </div>
+                </div>
+                <div class="pure-u-1 pure-u-md-1-2 function_item even">
+                    <div class="l-box">
+                        <h2>Follows the Early Learning Years Framework</h2>
+                    </div>
+                </div>
+                <div class="pure-u-1 pure-u-md-1-2 function_item odd">
+                    <div class="l-box">
+                        <h2>Smaller groups for more personal coaching</h2>
+                    </div>
+                </div>
+                <div class="pure-u-1 pure-u-md-1-2 function_item even">
+                    <div class="l-box">
+                        <h2>Unerstanding and listening to instructions</h2>
+                    </div>
+                </div>
+                <div class="pure-u-1 pure-u-md-1-2 function_item odd">
+                    <div class="l-box">
+                        <h2>Teaches peer-encouragement</h2>
+                    </div>
+                </div>
+                <div class="pure-u-1 pure-u-md-1-2 function_item even">
+                    <div class="l-box">
+                        <h2>Multiple sports over the year</h2>
+                    </div>
+                </div>
+                <div class="pure-u-1 pure-u-md-1-2 function_item odd">
+                    <div class="l-box">
+                        <h2>Restoring the enjoyment of keeping active</h2>
+                    </div>
+                </div>
+                <div class="pure-u-1 pure-u-md-1-2 function_item even">
+					<div class="l-box">
+						<h2>Programs in daycares, kindergartens, schools, sports centres</h2> <span>+</span> <h2>Birthdays, Kinder Graduations, Centre Functions and Christmas Parties</h2>
+                </div>
+            </div>
+            <?php include('../assets/php/pages_footer.php'); ?>
         </div>
-        </div>
-        <script>
-        $(document).ready(function() {
-   $(window).scroll(function() {
-
-       var headerH = $('.menu_wrap').outerHeight(true);
-       console.log(headerH);
-//this will calculate header's full height, with borders, margins, paddings
-       var scrollVal = $(this).scrollTop();
-       if (/Mobi/.test(navigator.userAgent)) {
-        if ( scrollVal > headerH ) {
-            $('.kids').css({'position':'fixed','top' :'0px'});
-            $('.kids-rear').css({'display': 'block'});
-        } else {
-            $('.kids').css({'position':'static','top':'0px'});
-            $('.kids-rear').css({'display': 'none'});
-        }
-    }
-    });
- });
-        </script>
     </body>
 </html>
