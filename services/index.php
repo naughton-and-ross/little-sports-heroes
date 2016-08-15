@@ -32,27 +32,27 @@
                     <div class="l-box">
                         <p>We believe in quality of service, understanding that every child is unique and will respond in different ways and that enjoyment plays a major role in the absorption of knowledge and skills.</p>
                         <p>By providing two coaches for each session we are able to cater for you child's needs through a more structured, inclusive and fun program.</p>
-                        <p>We strive to structure our program to coincide with the Early Learning Years Framework to further aid in a child's development. 
+                        <p>We strive to structure our program to coincide with the Early Learning Years Framework to further aid in a child's development.
                     </div>
                 </div>
                 <div class="pure-u-1 pure-u-md-1-2">
                     <div class="l-box">
                         <p>Making sure children feel safe, secure and supported in their learning environment enables a child to interact in relation to others with care, empathy and respect.</p>
-                        <p>We aid in developing a strong sense of identity and belonging to a group and they will become well aware of fairness that will not only apply to sport but to everyday life. 
-                        <p>Through this they will also develop a strong sense of physical, social and emotional wellbeing. 
+                        <p>We aid in developing a strong sense of identity and belonging to a group and they will become well aware of fairness that will not only apply to sport but to everyday life.
+                        <p>Through this they will also develop a strong sense of physical, social and emotional wellbeing.
                     </div>
                 </div>
-                <div class="pure-u-1 pure-u-sm-12-24 pure-u-md-6-24">
-                		<img class="pure-img" src="/assets/img/candid/IMG_0011.jpg" />
+                <div class="pure-u-12-24 pure-u-md-6-24">
+            		<img class="pure-img" src="/assets/img/candid/1.jpg" />
                 </div>
-				<div class="pure-u-1 pure-u-sm-12-24 pure-u-md-6-24">
-                		<img class="pure-img" src="/assets/img/candid/IMG_0011.jpg" />
+				<div class="pure-u-12-24 pure-u-md-6-24">
+            		<img class="pure-img" src="/assets/img/candid/IMG_0013.jpg" />
                 </div>
-                <div class="pure-u-1 pure-u-sm-12-24 pure-u-md-6-24">
-                		<img class="pure-img" src="/assets/img/candid/IMG_0011.jpg" />
+                <div class="pure-u-12-24 pure-u-md-6-24">
+            		<img class="pure-img" src="/assets/img/candid/IMG_0015.jpg" />
                 </div>
-                <div class="pure-u-1 pure-u-sm-12-24 pure-u-md-6-24">
-                		<img class="pure-img" src="/assets/img/candid/IMG_0011.jpg" />
+                <div class="pure-u-12-24 pure-u-md-6-24">
+            		<img class="pure-img" src="/assets/img/candid/IMG_0011.jpg" />
                 </div>
                 <div class="pure-u-1">
                     <div class="l-box">
