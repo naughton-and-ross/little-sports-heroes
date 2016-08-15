@@ -32,6 +32,9 @@
                     <div class="l-box">
                         <h2>“Robbie and George are doing an amazing job with their program. It has been really easy for the children to follow instructions and do the activities.</h2><br /><br />
                         <h2>Feedback from parents has been of a high standard and the children are taking the skills home and practicing so they can be better on the day of Sports so that Robbie and George would be proud of them.”</h2>
+                        <p>
+                        	Anna, Kinder Teacher
+                        </p>
                     </div>
                 </div>
                 <div class="pure-u-1 pure-u-md-1-2">
@@ -55,6 +58,9 @@
                 <div class="pure-u-1 pure-u-md-1-2 testimonial odd">
                     <div class="l-box">
                         <h2>“The guys are great with the children and are very enthusiastic and encouraging. The children set up their equipment on days they don’t have sports and practice the skills they’ve learned.”</h2>
+                        <p>
+                        	Mickleham Road Guardian Childcare
+                        </p>
                     </div>
                 </div>
                 <div class="pure-u-1 pure-u-md-1-2 testimonial even">
@@ -69,7 +75,10 @@
                 </div>
                 <div class="pure-u-1 pure-u-md-1-2 testimonial even">
                     <div class="l-box">
-                        <h2>“My son really enjoys attending the sessions. Each day he tried to practice at home so that he can het better for the nest session with Coach George and Coach Robbie. He has been getting more and more active as each week goes by.”</h2>
+                        <h2>“My son Ryder really enjoys attending the sessions. Each day he tried to practice at home so that he can het better for the nest session with Coach George and Coach Robbie. He has been getting more and more active as each week goes by.”</h2>
+                        <p>
+                        	Ryder's Mum, Jo Warway
+                        </p>
                     </div>
                 </div>
             </div>
