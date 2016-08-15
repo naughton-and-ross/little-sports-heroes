@@ -31,7 +31,7 @@
             	<div class="pure-u-1 pure-u-md-1-2">
                     <div class="l-box">
                         <p>We believe in quality of service, understanding that every child is unique and will respond in different ways and that enjoyment plays a major role in the absorption of knowledge and skills.</p>
-                        <p>By providing two coaches for each session we are able to cater for you child's needs.</p>
+                        <p>By providing two coaches for each session we are able to cater for you child's needs through a more structured, inclusive and fun program.</p>
                         <p>We strive to structure our program to coincide with the Early Learning Years Framework to further aid in a child's development. 
                     </div>
                 </div>
