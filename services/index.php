@@ -59,7 +59,7 @@
                 </div>
                 <div class="pure-u-1 pure-u-md-1-2 function_item odd">
                     <div class="l-box">
-                        <h2>Teaches correct technqiue and terminology</h2>
+                        <h2>Teaches correct technique and terminology</h2>
                     </div>
                 </div>
                 <div class="pure-u-1 pure-u-md-1-2 function_item even">
@@ -74,7 +74,7 @@
                 </div>
                 <div class="pure-u-1 pure-u-md-1-2 function_item even">
                     <div class="l-box">
-                        <h2>Unerstanding and listening to instructions</h2>
+                        <h2>Understanding and listening to instructions</h2>
                     </div>
                 </div>
                 <div class="pure-u-1 pure-u-md-1-2 function_item odd">
