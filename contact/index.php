@@ -50,6 +50,13 @@
                     </div>
                 </div>
             </div>
+            <div class="pure-g">
+            	<div class="pure-u-1">
+                    <div class="l-box">
+                        <h1>Little Sports Heroes On Social Media</h1>
+                    </div>
+                </div>
+            </div>
             <?php include('../assets/php/pages_footer.php'); ?>
         </div>
 
