@@ -18,7 +18,7 @@
                 </div>
                 <div class="pure-u-1 pure-u-md-14-24 darken">
                     <div class="l-box">
-                        <h2>Want <strong>Little Sports Heroes</strong> in your school or centre? It couldn't be easier to grt started with us. Fill is the form and we'll get back to you as soon as possible!</h2>
+                        <h2>Want <strong>Little Sports Heroes</strong> in your school or centre? It couldn't be easier to get started with us. Fill is the form and we'll get back to you as soon as possible!</h2>
                     </div>
                 </div>
             </div>
