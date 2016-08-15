@@ -1,4 +1,4 @@
-<div class="pure-g footer">
+<div class="pure-u-1 footer">
     <div class="pure-u-14-24">
         <div class="l-box">
             <p>
