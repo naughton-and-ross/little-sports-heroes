@@ -43,24 +43,16 @@
                     </div>
                 </div>
                 <div class="pure-u-1 pure-u-sm-12-24 pure-u-md-6-24">
-                	<div class="l-box">
                 		<img class="pure-img" src="/assets/img/candid/IMG_0011.jpg" />
-                	</div>
                 </div>
 				<div class="pure-u-1 pure-u-sm-12-24 pure-u-md-6-24">
-                	<div class="l-box">
                 		<img class="pure-img" src="/assets/img/candid/IMG_0011.jpg" />
-                	</div>
                 </div>
                 <div class="pure-u-1 pure-u-sm-12-24 pure-u-md-6-24">
-                	<div class="l-box">
                 		<img class="pure-img" src="/assets/img/candid/IMG_0011.jpg" />
-                	</div>
                 </div>
                 <div class="pure-u-1 pure-u-sm-12-24 pure-u-md-6-24">
-                	<div class="l-box">
                 		<img class="pure-img" src="/assets/img/candid/IMG_0011.jpg" />
-                	</div>
                 </div>
                 <div class="pure-u-1">
                     <div class="l-box">
