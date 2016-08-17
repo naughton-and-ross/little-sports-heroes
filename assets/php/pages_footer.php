@@ -1,10 +1,12 @@
 <div class="pure-u-1 footer">
-    <div class="pure-u-14-24">
+    <div class="pure-u-1">
         <div class="l-box">
             <p>
-                Little Sports Heroes ABN
+                Little Sports Heroes
             </p>
             <p>
+                ABN 56 418 521 121<br/>
+            </br/>
                 Melbourne, Australia
             </p>
             <p>
