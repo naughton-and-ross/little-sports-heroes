@@ -3,6 +3,7 @@
     <head>
         <?php include('assets/php/head.php'); ?>
         <title>Little Sports Heroes</title>
+        <meta name="description" content="Little Sports Heroes provides sports programs for kids in Melbourne. Get in Touch today!">
     </head>
     <body>
         <script>
@@ -70,10 +71,10 @@
                     </div>
                 </div>
                 <div class="kids-rear">
-                    <img class="pure-img" src="/assets/img/bg/kids-on-hill-web.png" />
+                    <img class="pure-img" src="/assets/img/bg/kids-on-hill-web-clouds.png" />
                 </div>
                 <div class="kids">
-                    <img class="pure-img" src="/assets/img/bg/kids-on-hill-web.png" />
+                    <img class="pure-img" src="/assets/img/bg/kids-on-hill-web-clouds.png" />
                 </div>
                 <div class="pure-g">
                     <div class="pure-u-2-24 spacer">

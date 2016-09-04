@@ -5,7 +5,7 @@
         <link rel="stylesheet" href="/assets/css/pages.css" />
         <link rel="stylesheet" href="/assets/css/unslider.css">
         <link rel="stylesheet" href="/assets/css/unslider-dots.css">
-        <title>Litle Sports Heroes</title>
+        <title>Little Sports Heroes</title>
     </head>
     <body>
         <div id="fb-root"></div>
@@ -51,7 +51,10 @@
                 <div class="pure-u-1 pure-u-md-14-24">
                     <div class="l-box">
                         <?php if ($_GET['email']) { ?>
-                            <h2><strong>Your email has been sent!</strong></h2>
+                            <h2><strong><u>Your email has been sent!</u></strong></h2>
+                        <?php } ?>
+                        <?php if ($_GET['empty']) { ?>
+                            <h2><strong><u>Be sure to fill out all fields!</u></strong></h2>
                         <?php } ?>
                         <h2><strong>Little Sports Heroes</strong> services the wider Melbourne area and can work in all kinds of centres including daycares, kindergartens, schools and other sports centres.</h2>
                         <h2>If you're not sure if LSH can come to you, don't hesitate to get in touch to find out.</h2>

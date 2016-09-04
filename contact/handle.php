@@ -1,5 +1,13 @@
 <?php
 
+error_reporting(E_ALL);
+ini_set('display_errors', '1');
+
+$name = strip_tags($_POST['name']);
+$contact = strip_tags($_POST['contact']);
+$type = strip_tags($_POST['type']);
+$comments = strip_tags($_POST['comments']);
+
 $message = '<html><body>';
 $message .= '<table rules="all" style="border-color: #666;" cellpadding="10">';
 $message .= "<tr style='background: #eee;'><td><strong>Name:</strong> </td><td>" . strip_tags($_POST['name']) . "</td></tr>";
@@ -20,8 +28,13 @@ $headers .= "Reply-To: ". strip_tags($_POST['contact']) . "\r\n";
 $headers .= "MIME-Version: 1.0\r\n";
 $headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
 
+if (empty($name) || empty($contact) || empty($type) || empty($comments)) {
+	header( 'Location: /contact/index.php?empty=true' );
+	die();
+}
+
 if (mail($to, $subject, $message, $headers)) {
-  header( 'Location: /contact/index.php?email=true' ) ;
+  header( 'Location: /contact/index.php?email=true' );
 } else {
   echo 'There was a problem sending the email. Please go back and try again';
 }
