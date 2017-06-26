@@ -4,6 +4,8 @@
         <?php include('assets/php/head.php'); ?>
         <title>Little Sports Heroes</title>
         <meta name="description" content="Little Sports Heroes provides sports programs for kids in Melbourne. Get in Touch today!">
+        <link rel="stylesheet" href="/assets/css/unslider.css">
+        <link rel="stylesheet" href="/assets/css/unslider-dots.css">
     </head>
     <body>
         <script>
@@ -80,7 +82,7 @@
                     <div class="pure-u-2-24 spacer">
 
                     </div>
-                    <div class="pure-u-lg-12-24 pure-u-18-24 text">
+                    <div class="pure-u-18-24 pure-u-lg-11-24 text">
                         <div class="l-box">
                             <h1>Your Kids Can Be <span>Little Sports Heroes!</span></h1>
                             <p>
@@ -90,35 +92,55 @@
                                 LSH gets your kids active, doing everything from the basics, to team sports, all while building important team-based skills
                             </p>
                         </div>
-                        <div class="pure-g">
-                            <div class="pics-banner">
-                                <div class="pure-u-1-2 pure-u-md-12-24">
-                                    <img class="pure-img" src="/assets/img/candid/IMG_0010.jpg" />
-                                </div>
-                                <div class="pure-u-1-2 pure-u-md-12-24">
-                                    <img class="pure-img" src="/assets/img/candid/new1.jpg" />
-                                </div>
-                                <div class="pure-u-1-2 pure-u-md-12-24">
-                                    <img class="pure-img" src="/assets/img/candid/new2.jpg" />
-                                </div>
-                                <div class="pure-u-1-2 pure-u-md-12-24">
-                                    <img class="pure-img" src="/assets/img/candid/IMG_0010.jpg" />
+                        <div class="pics-banner mobile mobile_only">
+                            <div class="pure-u-1">
+                                <div class="my-slider">
+                                	<ul>
+                                		<li><img class="pure-img" src="/assets/img/candid/new1.jpg" /></li>
+                                		<li><img class="pure-img" src="/assets/img/candid/IMG_0011.jpg" /></li>
+                                		<li><img class="pure-img" src="/assets/img/candid/IMG_0013.jpg" /></li>
+                                        <li><img class="pure-img" src="/assets/img/candid/IMG_0016.jpg" /></li>
+                                        <li><img class="pure-img" src="/assets/img/candid/1.jpg" /></li>
+                                        <li><img class="pure-img" src="/assets/img/candid/IMG_0002.jpg" /></li>
+                                	</ul>
                                 </div>
                             </div>
+                        </div>
+                        <div class="pure-g">
+
                             <div class="pure-u-1">
                                 <div class="l-box">
-                                    <h1><a href="/services" class="services">Find out about our program here!</a> and take a look at <a href="/about" class="about">what people are saying about us.</a></h1>
+                                    <h1><a href="/services" class="services">Find out about our program here!</a> and take a look at <a href="/about" class="about">what people are saying about us.</a> And please, <a href="/contact">get in touch</a> to register your interest or just say hello!</h1>
                                 </div>
                             </div>
 
                         </div>
                     </div>
 
-                    <div class="pure-u-lg-2-24 pure-u-10-24 spacer">
+                    <div class="pure-u-12-24 pure-u-lg-2-24 spacer">
                     </div>
-                    <div class="pure-u-1 pure-u-lg-5-24 pure-u-10-24 map desktop_only">
-                        <div class="l-box">
-                            <h1><a href="/contact" class="contact">Get in touch today</a> to register your interest!</h1>
+                    <div class="pure-u-1 pure-u-lg-7-24 map desktop_only">
+                        <div class="pics-banner">
+                            <div class="my-slider2">
+                                <ul>
+                                    <li><img class="pure-img" src="/assets/img/candid/new1.jpg" /></li>
+                                    <li><img class="pure-img" src="/assets/img/candid/IMG_0011.jpg" /></li>
+                                    <li><img class="pure-img" src="/assets/img/candid/IMG_0013.jpg" /></li>
+                                    <li><img class="pure-img" src="/assets/img/candid/IMG_0016.jpg" /></li>
+                                    <li><img class="pure-img" src="/assets/img/candid/1.jpg" /></li>
+                                    <li><img class="pure-img" src="/assets/img/candid/IMG_0002.jpg" /></li>
+                                </ul>
+                            </div>
+                            <div class="my-slider">
+                                <ul>
+                                    <li><img class="pure-img" src="/assets/img/candid/new1.jpg" /></li>
+                                    <li><img class="pure-img" src="/assets/img/candid/IMG_0011.jpg" /></li>
+                                    <li><img class="pure-img" src="/assets/img/candid/IMG_0013.jpg" /></li>
+                                    <li><img class="pure-img" src="/assets/img/candid/IMG_0016.jpg" /></li>
+                                    <li><img class="pure-img" src="/assets/img/candid/1.jpg" /></li>
+                                    <li><img class="pure-img" src="/assets/img/candid/IMG_0002.jpg" /></li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -146,5 +168,21 @@
          });
 
         </script>
+        <script src="/assets/js/unslider-min.js"></script>
+        <script>
+    		jQuery(document).ready(function($) {
+    			$('.my-slider').unslider({
+                    nav: false,
+                    autoplay: true,
+                    arrows: false
+                });
+                $('.my-slider2').unslider({
+                    nav: false,
+                    autoplay: true,
+                    arrows: false,
+                    delay: 5000
+                });
+    		});
+    	</script>
     </body>
 </html>

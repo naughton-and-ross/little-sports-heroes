@@ -77,6 +77,7 @@ a.contact:hover {
 
 .home-text {
     background-color: #24b833;
+    padding-bottom: 5em;
 }
 
 .intro h1 {
@@ -151,6 +152,11 @@ a.contact:hover {
 
 .kids-rear {
     display: none;
+}
+
+.pics-banner.mobile {
+    width: 138%;
+    margin-left: -15%;
 }
 
 .footer {
