@@ -67,25 +67,10 @@
                         <h1>Little Sports Heroes On Social Media</h1>
                     </div>
                 </div>
-                <div class="pure-u-1 pure-u-md-8-24">
+                <div class="pure-u-1">
                     <div class="l-box">
-                        <div class="fb-page" data-href="https://www.facebook.com/LittleSportsHeroes/?fref=ts" data-tabs="timeline" data-width="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/LittleSportsHeroes/?fref=ts" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/LittleSportsHeroes/?fref=ts">Little Sports Heroes</a></blockquote></div>
+                        <div class="fb-page" data-href="https://www.facebook.com/LittleSportsHeroes/?fref=ts" data-tabs="timeline" data-width="500" data-height="800" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/LittleSportsHeroes/?fref=ts" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/LittleSportsHeroes/?fref=ts">Little Sports Heroes</a></blockquote></div>
                     </div>
-                </div>
-                <div class="pure-u-1 pure-u-md-16-24">
-                    <div class="l-box">
-                        <div class="my-slider">
-                        	<ul>
-                        		<li><img class="pure-img" src="/assets/img/candid/IMG_0006.jpg" /></li>
-                        		<li><img class="pure-img" src="/assets/img/candid/IMG_0011.jpg" /></li>
-                        		<li><img class="pure-img" src="/assets/img/candid/IMG_0013.jpg" /></li>
-                                <li><img class="pure-img" src="/assets/img/candid/IMG_0016.jpg" /></li>
-                                <li><img class="pure-img" src="/assets/img/candid/1.jpg" /></li>
-                                <li><img class="pure-img" src="/assets/img/candid/IMG_0002.jpg" /></li>
-                        	</ul>
-                        </div>
-                    </div>
-
                 </div>
             </div>
             <?php include('../assets/php/pages_footer.php'); ?>
