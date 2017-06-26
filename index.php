@@ -91,7 +91,20 @@
                             </p>
                         </div>
                         <div class="pure-g">
-
+                            <div class="pics-banner">
+                                <div class="pure-u-1-2 pure-u-md-12-24">
+                                    <img class="pure-img" src="/assets/img/candid/IMG_0010.jpg" />
+                                </div>
+                                <div class="pure-u-1-2 pure-u-md-12-24">
+                                    <img class="pure-img" src="/assets/img/candid/new1.jpg" />
+                                </div>
+                                <div class="pure-u-1-2 pure-u-md-12-24">
+                                    <img class="pure-img" src="/assets/img/candid/new2.jpg" />
+                                </div>
+                                <div class="pure-u-1-2 pure-u-md-12-24">
+                                    <img class="pure-img" src="/assets/img/candid/IMG_0010.jpg" />
+                                </div>
+                            </div>
                             <div class="pure-u-1">
                                 <div class="l-box">
                                     <h1><a href="/services" class="services">Find out about our program here!</a> and take a look at <a href="/about" class="about">what people are saying about us.</a></h1>
@@ -108,20 +121,6 @@
                             <h1><a href="/contact" class="contact">Get in touch today</a> to register your interest!</h1>
                         </div>
                     </div>
-                </div>
-            </div>
-            <div class="pure-g pics-banner">
-                <div class="pure-u-1-2 pure-u-md-6-24">
-                    <img class="pure-img" src="/assets/img/candid/IMG_0010.jpg" />
-                </div>
-                <div class="pure-u-1-2 pure-u-md-6-24">
-                    <img class="pure-img" src="/assets/img/candid/new1.jpg" />
-                </div>
-                <div class="pure-u-1-2 pure-u-md-6-24">
-                    <img class="pure-img" src="/assets/img/candid/new2.jpg" />
-                </div>
-                <div class="pure-u-1-2 pure-u-md-6-24">
-                    <img class="pure-img" src="/assets/img/candid/IMG_0010.jpg" />
                 </div>
             </div>
         </div>
