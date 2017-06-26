@@ -127,24 +127,25 @@
         </div>
         </div>
         <script>
-        $(document).ready(function() {
-   $(window).scroll(function() {
 
-       var headerH = $('.menu_wrap').outerHeight(true);
-       console.log(headerH);
-//this will calculate header's full height, with borders, margins, paddings
-       var scrollVal = $(this).scrollTop();
-       if (/Mobi/.test(navigator.userAgent)) {
-        if ( scrollVal > headerH ) {
-            $('.kids').css({'position':'fixed','top' :'0px'});
-            $('.kids-rear').css({'display': 'block'});
-        } else {
-            $('.kids').css({'position':'static','top':'0px'});
-            $('.kids-rear').css({'display': 'none'});
-        }
-    }
-    });
- });
+        $(document).ready(function() {
+           $(window).scroll(function() {
+
+               var headerH = $('.menu_wrap').outerHeight(true);
+               console.log(headerH);
+               var scrollVal = $(this).scrollTop();
+               if (/Mobi/.test(navigator.userAgent)) {
+                if ( scrollVal > headerH ) {
+                    $('.kids').css({'position':'fixed','top' :'0px', 'background-color': '#179ee9'});
+                    $('.kids-rear').css({'display': 'block'});
+                } else {
+                    $('.kids').css({'position':'static','top':'0px', 'background-color': 'rgba(0, 0, 255, 0.0)'});
+                    $('.kids-rear').css({'display': 'none'});
+                }
+            }
+            });
+         });
+
         </script>
     </body>
 </html>
