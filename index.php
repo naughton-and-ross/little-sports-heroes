@@ -97,11 +97,13 @@
                                 <div class="my-slider">
                                 	<ul>
                                 		<li><img class="pure-img" src="/assets/img/candid/new1.jpg" /></li>
-                                		<li><img class="pure-img" src="/assets/img/candid/IMG_0011.jpg" /></li>
-                                		<li><img class="pure-img" src="/assets/img/candid/IMG_0013.jpg" /></li>
-                                        <li><img class="pure-img" src="/assets/img/candid/IMG_0016.jpg" /></li>
-                                        <li><img class="pure-img" src="/assets/img/candid/1.jpg" /></li>
-                                        <li><img class="pure-img" src="/assets/img/candid/IMG_0002.jpg" /></li>
+                                		<li><img class="pure-img" src="/assets/img/candid/new2.jpg" /></li>
+                                        <li><img class="pure-img" src="/assets/img/candid/new3.jpg" /></li>
+                                        <li><img class="pure-img" src="/assets/img/candid/new4.jpg" /></li>
+                                        <li><img class="pure-img" src="/assets/img/candid/new5.jpg" /></li>
+                                        <li><img class="pure-img" src="/assets/img/candid/new6.jpg" /></li>
+                                        <li><img class="pure-img" src="/assets/img/candid/new7.jpg" /></li>
+                                        <li><img class="pure-img" src="/assets/img/candid/new8.jpg" /></li>
                                 	</ul>
                                 </div>
                             </div>
