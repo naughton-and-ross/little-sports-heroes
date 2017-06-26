@@ -82,7 +82,7 @@
                     <div class="pure-u-1-24 spacer">
 
                     </div>
-                    <div class="pure-u-18-24 pure-u-lg-11-24 text">
+                    <div class="pure-u-1 pure-u-lg-11-24 text">
                         <div class="l-box">
                             <h1>Your Kids Can Be <span>Little Sports Heroes!</span></h1>
                             <p>

@@ -171,8 +171,7 @@ a.contact:hover {
 }
 
 .pics-banner.mobile {
-    width: 138%;
-    margin-left: -15%;
+
 }
 
 .footer {
@@ -210,6 +209,7 @@ a.contact:hover {
 
     .map {
         display: table;
+        z-index: 100;
     }
 }
 @media (min-width:961px) { /* tablet, landscape iPad, lo-res laptops ands desktops */ }
