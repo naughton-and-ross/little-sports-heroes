@@ -79,7 +79,7 @@
                     <img class="pure-img" src="/assets/img/bg/kids-on-hill-web-clouds.png" />
                 </div>
                 <div class="pure-g home-text">
-                    <div class="pure-u-2-24 spacer">
+                    <div class="pure-u-1-24 spacer">
 
                     </div>
                     <div class="pure-u-18-24 pure-u-lg-11-24 text">
@@ -121,9 +121,12 @@
 
                     <div class="pure-u-12-24 pure-u-lg-2-24 spacer">
                     </div>
-                    <div class="pure-u-1 pure-u-lg-7-24 map desktop_only">
-                        <div class="pics-banner">
-                            <div class="my-slider2">
+                    <div class="pure-u-1 pure-u-lg-8-24 map desktop_only">
+                        <div class="pics-banner l-box">
+                            <p>
+                                What we've been up to:
+                            </p>
+                            <div class=" slider my-slider2 top">
                                 <ul>
                                     <li><img class="pure-img" src="/assets/img/candid/new1.jpg" /></li>
                                     <li><img class="pure-img" src="/assets/img/candid/new2.jpg" /></li>
@@ -135,7 +138,7 @@
                                     <li><img class="pure-img" src="/assets/img/candid/IMG_0002.jpg" /></li>
                                 </ul>
                             </div>
-                            <div class="my-slider">
+                            <div class="slider my-slider">
                                 <ul>
                                     <li><img class="pure-img" src="/assets/img/candid/new5.jpg" /></li>
                                     <li><img class="pure-img" src="/assets/img/candid/new6.jpg" /></li>

@@ -130,15 +130,30 @@ a.contact:hover {
     text-align: center;
 }
 
+.map {
+    background-color: white;
+    border-radius: 5px;
+}
+
 .map p {
-    font-size: 100%;
-    margin-top: 3em;
+    font-size: 120%;
+    color: black;
+    margin-top: 0;
 }
 
 .map ul {
     padding: 0;
     list-style: star;
     font-size: 130%;
+
+}
+
+.map ul li img {
+    border-radius: 5px;
+}
+
+.map .slider.top {
+    margin-bottom: 1em;
 }
 
 
