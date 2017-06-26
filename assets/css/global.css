@@ -133,6 +133,7 @@ a.contact:hover {
 .map {
     background-color: white;
     border-radius: 5px;
+    display: table;
 }
 
 .map p {
