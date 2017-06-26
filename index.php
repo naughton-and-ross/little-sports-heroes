@@ -76,7 +76,7 @@
                 <div class="kids">
                     <img class="pure-img" src="/assets/img/bg/kids-on-hill-web-clouds.png" />
                 </div>
-                <div class="pure-g">
+                <div class="pure-g home-text">
                     <div class="pure-u-2-24 spacer">
 
                     </div>
@@ -108,6 +108,20 @@
                             <h1><a href="/contact" class="contact">Get in touch today</a> to register your interest!</h1>
                         </div>
                     </div>
+                </div>
+            </div>
+            <div class="pure-g pics-banner">
+                <div class="pure-u-1-2 pure-u-md-6-24">
+                    <img class="pure-img" src="/assets/img/candid/IMG_0010.jpg" />
+                </div>
+                <div class="pure-u-1-2 pure-u-md-6-24">
+                    <img class="pure-img" src="/assets/img/candid/new1.jpg" />
+                </div>
+                <div class="pure-u-1-2 pure-u-md-6-24">
+                    <img class="pure-img" src="/assets/img/candid/new2.jpg" />
+                </div>
+                <div class="pure-u-1-2 pure-u-md-6-24">
+                    <img class="pure-img" src="/assets/img/candid/IMG_0010.jpg" />
                 </div>
             </div>
         </div>

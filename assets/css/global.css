@@ -5,7 +5,13 @@
 body {
     background-color: white;
     font-family: "sofia-pro-soft",sans-serif;
-    background-color: #179ee9;
+    background-color: #179ee9;/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#0070ad+0,17b0ed+39 */
+background: #0070ad; /* Old browsers */
+background: -moz-linear-gradient(top,  #0070ad 0%, #17b0ed 39%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #0070ad 0%,#17b0ed 39%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #0070ad 0%,#17b0ed 39%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0070ad', endColorstr='#17b0ed',GradientType=0 ); /* IE6-9 */
+
 }
 
 a:link {
@@ -67,6 +73,9 @@ a.contact:hover {
 
     font-family: "sofia-pro-soft";
     color: white;
+}
+
+.home-text {
     background-color: #24b833;
 }
 
@@ -85,7 +94,6 @@ a.contact:hover {
 }
 
 .menu_wrap {
-    background-color: #179ee9;
 }
 
 .menu {
@@ -134,7 +142,6 @@ a.contact:hover {
 
 
 .kids {
-    background-color: #179ee9;
     /* background-image: url('/assets/img/bg/kids.png'); */
     background-size: contain;;
     margin: 0 auto;
